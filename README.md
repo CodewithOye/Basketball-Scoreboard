@@ -8,3 +8,7 @@ Your correction/contribution will be appreciated .
 
 
 My second project with Scrimba..
+
+
+Kind Regards
+Oyetechn
